@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-I'm Wedad, a passionate Data Analyst and Business Analyst. I'm all about turning messy data into golden insights! Whether it's predicting trends, crunching numbers, or just making sense of the chaos, I am your person!
+I'm Wedad, a passionate Data Analyst/Business Analyst. I'm all about turning messy data into golden insights! Whether it's predicting trends, crunching numbers, or just making sense of the chaos, I am your person!
 </p>
 
 ###
@@ -26,9 +26,44 @@ I'm Wedad, a passionate Data Analyst and Business Analyst. I'm all about turning
   <img src="https://imgur.com/6huu6R7.png" height="40" alt="Looker logo" />
   <img width="12" />
   <img src="https://imgur.com/Ahmkyou.png" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn logo" />
 </div>
 
 ###
+
+<h2 align="left">Current Focus On</h2>
+
+Right now, I’m working on improving my skills , while also exploring and learning new tools and techniques. 
+
+
+<h2 align="left">Check Out My Projects</h2>
+
+<p align="left">
+  Take a look at some of the projects I've been working on. I'm always open to feedback and collaboration!
+</p>
+
+<p align="left">
+  <a href="https://github.com/WELZAY/Project-Collection" target="_blank">Project Collection</a>
+</p>
+
+
+<h2 align="left">Looking to Collaborate On</h2>
+
+<p align="left">
+ I'm always excited to collaborate on projects that involve predictive modeling, machine learning, data visualization, and health data. If you're working on something innovative in the data space, let's connect! I'm particularly interested in projects that have a real-world impact, such as improving customer experiences, optimizing business processes, enhancing healthcare outcomes, or exploring new data-driven strategies.
+</p>
+
+
+<p align="left">
+  Take a look at some of the projects I've been working on. I'm always open to feedback and collaboration!
+</p>  
 
 <div align="left">
   <!-- Gmail icon with your email -->
