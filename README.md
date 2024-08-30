@@ -4,13 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Hello World GIF" width="400"/>
 </p>
 
-###
 
-<p align="left">
-I'm Wedad, a passionate Data Analyst/Business Analyst. I'm all about turning messy data into golden insights! Whether it's predicting trends, crunching numbers, or just making sense of the chaos, I am your person!
-</p>
-
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
@@ -37,6 +31,25 @@ I'm Wedad, a passionate Data Analyst/Business Analyst. I'm all about turning mes
 </div>
 
 ###
+<div align="left">
+  <!-- Gmail icon with your email -->
+  <a href="mailto:wedadelz@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <!-- LinkedIn icon with your profile link -->
+  <a href="https://www.linkedin.com/in/wedadelz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+
+###
+
+<p align="left">
+I'm Wedad, a passionate Data Analyst/Business Analyst. I'm all about turning messy data into golden insights! Whether it's predicting trends, crunching numbers, or just making sense of the chaos, I am your person!
+</p>
+
+###
 
 <h2 align="left">Current Focus On</h2>
 
@@ -61,20 +74,9 @@ Right now, I’m working on improving my skills , while also exploring and learn
 </p>
 
 
-<p align="left">
-  Take a look at some of the projects I've been working on. I'm always open to feedback and collaboration!
-</p>  
 
-<div align="left">
-  <!-- Gmail icon with your email -->
-  <a href="mailto:wedadelz@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <!-- LinkedIn icon with your profile link -->
-  <a href="https://www.linkedin.com/in/wedadelz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+
+
 
 ###
 
