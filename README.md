@@ -63,7 +63,10 @@ Right now, I’m working on improving my skills , while also exploring and learn
 </p>
 
 <p align="left">
-  <a href="https://github.com/WELZAY/Machine-Learning-Projects" target="_blank">Project Collection</a>
+  <a href="https://github.com/WELZAY/Machine-Learning-Projects" target="_blank">Machine Learning Project</a>
+</p>
+
+  <a href="https://github.com/WELZAY/Applications" target="_blank">Applications</a>
 </p>
 
 
